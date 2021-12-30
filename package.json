@@ -1,0 +1,12 @@
+{
+  "name": "firebase_id_token_verifier",
+  "description": "Firebase id token verifier",
+  "dependencies": {
+    "dicer": "^0.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwks-rsa": "^2.0.2",
+    "node-forge": "^0.10.0"
+  },
+  "firebaseSDKVersion": "10.0.1",
+  "version": "1.0.0"
+}
